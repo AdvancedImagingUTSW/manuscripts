@@ -7,7 +7,8 @@ function twoStepDeconvolution(imageDirectory,imageName,psfPath,numberIterations)
 %
 % Written by Bo-Jui Chang, 2019.  Verified on Matlab/2019a.
 %%
-outputDirectory=fullfile(imageDirectory,strcat('decon_',num2str(numberIterations))); mkdirRobust(outputDirectory);
+outputDirectory=fullfile(imageDirectory,strcat('decon_',num2str(numberIterations))); 
+mkdirRobust(outputDirectory);
 disp(['Data Exporting to ' outputDirectory]);
 
 % load PSF

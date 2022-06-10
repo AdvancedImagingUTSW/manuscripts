@@ -14,7 +14,6 @@ Expected run time for demo on a "normal" desktop computer:
 
 
 # Specs of "normal" computer used.
-* Windows 10 Enterprise, Version 21H2
-* 64-bit operating system, x64-based processor
-* Intel(R) Xeon(R) Gold 5120 CPU @ 2.20GHz   2.20 GHz  (2 processors)
-* 960 GB RAM
+* RedHat Linux Enterprise 3.10.0-957
+* Intel(R) Xeon(R) E5-2680 v3 @ 2.5 GHz with 48 Cores and 96 Threads.
+* 256 GB RAM

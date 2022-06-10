@@ -17,3 +17,5 @@ Expected run time for demo on a "normal" desktop computer:
 * RedHat Linux Enterprise 3.10.0-957
 * Intel(R) Xeon(R) E5-2680 v3 @ 2.5 GHz with 48 Cores and 96 Threads.
 * 256 GB RAM
+
+First part of code: Elapsed time is 544.861401 seconds.

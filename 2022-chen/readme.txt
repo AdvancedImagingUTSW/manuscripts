@@ -10,12 +10,9 @@
 * The program will output registered datasets reg2_SIM00-0.tif to reg2_SIM22-0tif
 * For a SIM reconstruction, run SimReconRL.m on the pre-registered data. It will create a new folder "SIM2" which contains maximum intensity projections and 3D stacks of the reconstruction.
 
-Expected run time for demo on a "normal" desktop computer:
-
+Expected run time for demo on a "normal" desktop computer: ~10 minutes.
 
 # Specs of "normal" computer used.
 * RedHat Linux Enterprise 3.10.0-957
 * Intel(R) Xeon(R) E5-2680 v3 @ 2.5 GHz with 48 Cores and 96 Threads.
 * 256 GB RAM
-
-First part of code: Elapsed time is 544.861401 seconds.
